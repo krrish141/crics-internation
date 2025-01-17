@@ -56,6 +56,7 @@
                                         <li><a href="./handicraft-decor.php">Handicrafts and Decor </a></li>
                                         <li><a href="./industrial-goods.php">Machine & Tools</a></li>
                                         <li><a href="./cosmoetics-goods.php">Cosmetics Goods</a></li>
+                                        <li><a href="./snack&food.php">Snack & Food Items</a></li>
                                     </ul>
                                 </div>
                             </div>

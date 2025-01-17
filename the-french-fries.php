@@ -153,9 +153,16 @@ AOS.init({
             <div class="col-lg-7">
                 <div class="sec-title">
                     <span class="sub-title">The French Fries</span>
-                    <h2>Product List</h2>
+                    <h2>Product List
+                   
+                    </h2>
+
+                   
+
                 </div>
+                
             </div>
+            
             <div class="col-lg-5">
                 <div class="sec-right" style="justify-content: end;">
                     <div class="text"></div>
@@ -427,7 +434,7 @@ AOS.init({
 
 <!-- Start ChooseUs Section -->
 <!-- ========================================== -->
-<section class="choose-section space-top mt-100 mb-100">
+<section class="choose-section space-top mt-100">
     <div class="bg bg-image overlay" style="background-image: url(assets/images/product/french-fries/french.jpeg)">
     </div>
     <div class="choose__shape d-none d-xxl-block">
@@ -574,7 +581,9 @@ AOS.init({
 <!-- ========================================== -->
 <div class="brands-section">
     <div class="container">
+   
         <div class="sponsors-outer">
+        <h2 class="text-center">Our Certificate</h2>
             <ul class="brands-carousel owl-carousel owl-theme">
                 <li class="brand-item">
                     <a href="#" class="image">

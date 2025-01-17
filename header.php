@@ -156,6 +156,8 @@
 
                                     <li><a href="./the-french-fries.php">The French Fries </a></li>
 
+                                    <li><a href="./snack&food.php">Snack & Food Items</a></li>
+
                                     <li class="dropdown"><a href="./agriculture-product.php">Agricultural Products</a>
                                             <ul>
                                                 <li><a href="./agriculture-product.php">Spices </a></li>
@@ -214,6 +216,8 @@
                                 <li><a href="./contact.php">Contact Us</a></li>
                             </ul>
                         </nav>
+
+                        
     
                         <div class="outer-box">
                             <div class="mobile-nav-toggler"><span class="icon fa-solid fa-bars"></span></div>
