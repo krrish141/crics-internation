@@ -279,18 +279,39 @@
                         </div>
                     </div>
 
-                    
-                <div class="project-block">
+
+                    <div class="project-block">
                         <div class="inner-box">
                             <div class="image-box">
                                 <figure class="image"><a href="./the-french-fries.php"><img
-                                            src="assets/images/product/french-fries/the-french-fries-product.jpg" alt=""></a></figure>
+                                            src="assets/images/product/french-fries/the-french-fries-product.jpg"
+                                            alt=""></a></figure>
                             </div>
                             <div class="content-box">
                                 <div class="title-box">
                                     <span class="cat">Product</span>
-                                    <h4 class="title"><a href="./the-french-fries.php"
-                                            title="Logistic Project">The French Fries</a></h4>
+                                    <h4 class="title"><a href="./the-french-fries.php" title="Logistic Project">The
+                                            French Fries</a></h4>
+                                </div>
+                                <a href="./the-french-fries.php" class="icon"><i
+                                        class="fa fa-long-arrow-alt-right"></i></a>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <div class="project-block">
+                        <div class="inner-box">
+                            <div class="image-box">
+                                <figure class="image"><a href="./the-french-fries.php"><img
+                                            src="assets/images/product/snacks-home-product.png"
+                                            alt=""></a></figure>
+                            </div>
+                            <div class="content-box">
+                                <div class="title-box">
+                                    <span class="cat">Product</span>
+                                    <h4 class="title"><a href="./snack&food.php" title="Logistic Project">
+                                        Snack & Food Items</a></h4>
                                 </div>
                                 <a href="./the-french-fries.php" class="icon"><i
                                         class="fa fa-long-arrow-alt-right"></i></a>
@@ -316,6 +337,7 @@
                             </div>
                         </div>
                     </div>
+
                     <div class="project-block">
                         <div class="inner-box">
                             <div class="image-box">
@@ -819,9 +841,10 @@
                     <div class="gallery-thumb">
                         <img alt="Gallery Image02" src="assets/images/license/registration-cum.jpeg">
                         <div class="gallery-thumb-view">
-                            <a href="assets/images/license/Registration-cumMembershipCertificate.pdf" target="_blank" data-fancybox="gallery">
+                            <a href="assets/images/license/Registration-cumMembershipCertificate.pdf" target="_blank"
+                                data-fancybox="gallery">
 
-                            <img src="assets/images/icons/eye.svg" alt="View">
+                                <img src="assets/images/icons/eye.svg" alt="View">
                             </a>
                         </div>
                     </div>

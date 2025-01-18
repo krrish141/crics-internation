@@ -28,7 +28,7 @@
             <div class="image-column wow fadeInLeft col-lg-6 col-md-6">
                 <div class="inner-column">
                     <figure class="  wow fadeInUp">
-                        <img src="https://img.freepik.com/premium-photo/high-view-snacks-white-background-4k-hd-photo-product-design_1193781-35862.jpg?ga=GA1.1.244235183.1736331240"
+                        <img src="./assets/images/product/snack-main-img.jpg"
                             alt="">
                     </figure>
 
